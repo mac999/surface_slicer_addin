@@ -1,0 +1,4 @@
+C:\Project\Rhino\OpenSlicer\bin\Debug\OpenSlicer.dll
+C:\Project\Rhino\OpenSlicer\bin\Debug\OpenSlicer.pdb
+C:\Project\Rhino\OpenSlicer\obj\Debug\OpenSlicer.dll
+C:\Project\Rhino\OpenSlicer\obj\Debug\OpenSlicer.pdb
