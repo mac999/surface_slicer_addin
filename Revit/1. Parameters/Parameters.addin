@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+<AddIn Type="Command">
+<Assembly> C:\BIMPlatform\6. Automation\5. Revit\4. RevitObjects\1. Parameters\Parameters\Parameters\bin\Release\Parameters.dll</Assembly>
+<AddInId>239BD853-36E4-461f-9171-C5ACEDA4E725</AddInId>
+<FullClassName>Parameters.Parameters</FullClassName>
+<Text>Parameters</Text>
+<VendorId>ADSK</VendorId>
+<VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+</AddIn>
+</RevitAddIns>
