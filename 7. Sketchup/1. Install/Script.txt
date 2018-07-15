@@ -1,0 +1,4 @@
+pt1 = [0, 0, 0]
+pt2 = [10, 10, 0]
+model = Sketchup.active_model
+model.entities.add_line(pt1, pt2)
