@@ -2,6 +2,9 @@
 Rhino addin tool for generating tool path such as CNC, 3D printer etc. 
 Written by Taewook, Kang (laputa99999@gmail.com)
 
+<img src="https://github.com/mac999/Automation/blob/master/OpenSlicer/intersection.PNG" height="300">
+<img src="https://github.com/mac999/Automation/blob/master/OpenSlicer/calc%20results.PNG" height="400">
+
 * 2015.4.25 - 0.1
 1. Slicing Brep with 1 cutting plane.
 2. Slicing with 1 cutting plane and surface.
